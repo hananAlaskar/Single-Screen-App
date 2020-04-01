@@ -17,7 +17,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#673AB7"
+            android:background="@color/colorPrimary"
             android:padding="14dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
@@ -38,14 +38,14 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#6F673AB7"
+            android:background="@color/colorPrimaryDark"
             android:orientation="vertical"
             android:padding="24dp">
 
 
             <TextView
                 android:text="Business Info"
-                android:textColor="#F9FBFC"
+                android:textColor="@color/colorAccent"
                 android:textAlignment="center"
                 style="@style/TextAppearance.AppCompat.Display1"
                 android:layout_width="match_parent"
@@ -112,7 +112,7 @@
                     android:layout_margin="4dp"
                     android:autoLink="web"
                     android:text="https://www.codeforgirls.org/"
-                    android:textColor="#F8F8F7"
+                    android:textColor="@color/colorAccent"
                     style="@style/TextAppearance.AppCompat.Body2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"/>
@@ -143,7 +143,7 @@
                     <LinearLayout
                         android:layout_margin="12dp"
                         android:padding="24dp"
-                        android:background="@android:color/white"
+                        android:background="@color/colorAccent"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical">
@@ -164,7 +164,7 @@
                     <LinearLayout
                         android:layout_margin="12dp"
                         android:padding="24dp"
-                        android:background="@android:color/white"                    android:layout_width="wrap_content"
+                        android:background="@color/colorAccent"                 android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical">
 
@@ -184,7 +184,7 @@
                     <LinearLayout
                         android:layout_margin="12dp"
                         android:padding="24dp"
-                        android:background="@android:color/white"                    android:layout_width="wrap_content"
+                        android:background="@color/colorAccent"                 android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical">
 
