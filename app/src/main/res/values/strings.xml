@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Single Screen App</string>
+    <string name="business_info">Business Info</string>
+    <string name="code_for_girls">Code For Girls</string>
+    <string name="about_code_for_girls">CODE FOR GIRLS is an organization that aims to empower girls in the tech industry by building a community of talented girls from all disciplines, teaching them how to code (a.k.a create magic from scratch), work together, and develop their personal and professional skills.</string>
+    <string name="code_for_girls_link">https://www.codeforgirls.org/</string>
+    <string name="bootcamps">Bootcamps</string>
+    <string name="web_development_front_end">Web Development (Front-end)</string>
+    <string name="mobile_app_development_android">Mobile App Development (Android)</string>
+    <string name="programming_basics_with_python">Programming Basics with Python</string>
 </resources>
